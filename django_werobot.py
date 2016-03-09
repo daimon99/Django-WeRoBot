@@ -19,7 +19,7 @@ __all__ = ['make_view']
 
 from werobot.robot import BaseRoBot
 from werobot.parser import parse_user_msg
-from werobot.reply import create_reply
+from werobot.replies import create_reply
 from django.http import HttpResponse, HttpResponseForbidden, HttpResponseNotAllowed
 from django.views.decorators.csrf import csrf_exempt
 

@@ -1,3 +1,6 @@
+> 适应dev版本的werobot
+> daimon99@github
+
 Django-WeRoBot
 ==============
 

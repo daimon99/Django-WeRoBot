@@ -17,7 +17,7 @@ from setuptools import setup
 
 setup(
     name='Django-WeRoBot',
-    version='0.1.2',
+    version='0.1.2.1',
     url='https://github.com/whtsky/Django-WeRoBot',
     license='BSD',
     author='whtsky',
